@@ -12,4 +12,4 @@ I just like coding. Last year I decided to learn code and since been "hacking" i
 
 ## License
 
-If you want to use this site for your purposes, it will cost you One Million Dollars.
+None.
